@@ -31,12 +31,4 @@ Die Daten kommen von der **OMDb API** (Open Movie Database).
 
 ---
 
-## Installation
 
-1. Repository klonen oder Dateien herunterladen.
-2. In der Kommandozeile ins Projektverzeichnis wechseln.
-3. Virtuelle Umgebung erstellen (optional, empfohlen):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # für Linux/Mac
-   venv\Scripts\activate     # für Windows
